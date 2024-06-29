@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace ProyectoLibrary.Infraestructure.Models
 {
-    internal class AutorModels
+    public class AutorModels
     {
+        public int Id { get; set; }
+        public string Nombre { get; set; }
+        public List<Libro> Libros { get; set; }
     }
 }

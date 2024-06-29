@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProyectoFinal.Infraestructure.Context
 {
-    internal class LibraryContext
+    public class LibraryContext
     {
     }
 }

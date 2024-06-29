@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProyectoLibrary.Infraestructure.Exceptions
 {
-    internal class LibroExceptions
+    public class LibroExceptions
     {
     }
 }

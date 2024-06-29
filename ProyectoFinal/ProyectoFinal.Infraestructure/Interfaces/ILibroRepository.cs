@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProyectoLibrary.Infraestructure.Interfaces
 {
-    internal class ILibroRepository
+    public class ILibroRepository
     {
     }
 }
