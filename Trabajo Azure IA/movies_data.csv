@@ -1,0 +1,501 @@
+Movie_ID,Year,Name,Genre
+1,1894,Carmencita,"Documentary, Short"
+2,1892,Le clown et ses chiens,"Animation, Short"
+3,1892,Poor Pierrot,"Animation, Comedy, Short, Romance"
+4,1892,Un bon bock,"Animation, Short"
+5,1893,Blacksmith Scene,"Short, Comedy"
+6,1894,Chinese Opium Den,Short
+7,1894,Corbett and Courtney Before the Kinetograph,"Short, Sport"
+8,1894,Edison Kinetoscopic Record of a Sneeze,"Documentary, Short"
+9,1894,Miss Jerry,Romance
+10,1895,Leaving the Factory,"Documentary, Short"
+11,1895,Akrobatisches Potpourri,"Documentary, Short"
+12,1896,The Arrival of a Train,"Documentary, Short"
+13,1895,The Photographical Congress Arrives in Lyon,"Documentary, Short"
+14,1895,The Waterer Watered,"Short, Comedy"
+15,1894,Autour d'une cabine,"Animation, Short"
+16,1895,Boat Leaving the Port,"Documentary, Short"
+17,1895,Italienischer Bauerntanz,"Documentary, Short"
+18,1895,Das boxende Känguruh,Short
+19,1898,The Clown Barber,"Short, Comedy"
+20,1895,The Derby 1895,"Documentary, Short, Sport"
+21,1895,The Photographical Congress Arrives in Lyon,"Documentary, Short"
+22,1895,Blacksmith Scene,"Documentary, Short"
+23,1895,The Sea,"Documentary, Short"
+24,1895,Opening of the Kiel Canal,"Short, News"
+25,1896,The Oxford and Cambridge University Boat Race,"Short, News, Sport"
+26,1896,The Messers. Lumière at Cards,"Documentary, Short"
+27,1895,Cordeliers' Square in Lyon,"Documentary, Short"
+28,1895,Fishing for Goldfish,"Documentary, Short"
+29,1895,Baby's Meal,"Documentary, Short"
+30,1895,Rough Sea at Dover,"Documentary, Short"
+31,1895,Jumping the Blanket,"Documentary, Short"
+32,1895,Die Serpentintänzerin,Short
+33,1895,Horse Trick Riders,"Documentary, Short, Comedy"
+34,1896,Arrivée d'un train gare de Vincennes,"Documentary, Short"
+35,1896,Watering the Flowers,"Short, Comedy"
+36,1896,Awakening of Rip,"Drama, Short"
+37,1896,Sea Bathing,Short
+38,1898,The Ball Game,"Documentary, Short, Sport"
+39,1896,Barnet Horse Fair,Short
+40,1896,Barque sortant du port de Trouville,"Documentary, Short"
+41,1897,Snowball Fight,"Documentary, Short, Comedy"
+42,1896,Bateau-mouche sur la Seine,"Documentary, Short"
+43,1896,Batteuse à vapeur,"Documentary, Short"
+44,1896,Le bivouac,Short
+45,1896,Les blanchisseuses,Short
+46,1896,Bois de Boulogne,"Documentary, Short"
+47,1896,Boulevard des Italiens,"Documentary, Short"
+48,1896,The Boxing Kangaroo,Short
+49,1896,"Boxing Match; or, Glove Contest","Short, Sport"
+50,1896,Bébé et fillettes,"Documentary, Short"
+51,1896,The Bohemian Encampment,"Documentary, Short"
+52,1896,Ruraux au galop,"Documentary, Short"
+53,1897,A Chegada do Comboio Inaugural à Estação Central do Porto,"Documentary, Short"
+54,1896,A Merry-Go-Round,Short
+55,1896,Le chiffonnier,Short
+56,1896,Uma Corrida de Touros no Campo Pequeno,Short
+57,1896,The Czar and His Cortege Going to Versailles,"Documentary, Short"
+58,1896,The Czar's Cortege in the Bois de Boulogne,"Documentary, Short"
+59,1896,Coronation of a Village Maiden,Short
+60,1896,Dancing Darkies,"Documentary, Short"
+61,1896,Dancing Girls,Short
+62,1896,Danse serpentine,Short
+63,1896,Dessinateur express,Short
+64,1896,Dessinateur: Chamberlain,Short
+65,1896,Dessinateur: Reine Victoria,Short
+66,1896,Dessinateur: Von Bismark,Short
+67,1896,Conjurer Making Ten Hats in Sixty Seconds,"Short, Fantasy"
+68,1896,Unloading the Boat,"Documentary, Short"
+69,1896,Post No Bills,"Short, Comedy"
+70,1896,Demolition of a Wall,"Documentary, Short"
+71,1896,Automobiles Starting a Race,"Short, Sport"
+72,1896,Officers of French Army Leaving Service,Short
+73,1896,Sea Breaking on the Rocks,"Documentary, Short"
+74,1896,Children Playing on the Beach,"Documentary, Short"
+75,1896,The Conjuring of a Woman at the House of Robert Houdin,"Short, Horror"
+76,1896,Exit of Rip and the Dwarf,"Drama, Short"
+77,1896,"Le fakir, mystère indien",Short
+78,1896,Feira de Gado na Corujeira,"Documentary, Short"
+79,1896,La gare Saint-Lazare,"Documentary, Short"
+80,1896,Manoeuvres of the French Army,"Documentary, Short"
+81,1896,Towing a Boat on the River,"Documentary, Short"
+82,1896,A Hard Wash,"Comedy, Short"
+83,1896,The Peeping Toms,Short
+84,1896,The Drunkards,Short
+85,1896,Gardener Burning Weeds,Short
+86,1896,"Beach and Pier at Trouville, 1st part","Documentary, Short"
+87,1896,"Beach and Pier at Trouville, 2nd part","Documentary, Short"
+88,1896,Market Day,"Documentary, Short"
+89,1897,Leaving Jerusalem by Railway,"Documentary, Short"
+90,1896,Breaking Up of the Territorial Army,"Documentary, Short"
+91,1896,The House of the Devil,"Short, Horror"
+92,1896,Tide Rising Over the Breakwater,"Documentary, Short"
+93,1896,Melbourne,"Documentary, Short"
+94,1896,Miss de Vere,Short
+95,1896,The Mysterious Paper,Short
+96,1896,Place Saint-Augustin,"Documentary, Short"
+97,1896,"Place de l'Opéra, First View","Documentary, Short"
+98,1896,"Place de l'Opéra, Second View","Documentary, Short"
+99,1896,Place de la Bastille,"Documentary, Short"
+100,1896,Place de la Concorde,"Documentary, Short"
+101,1896,Place du théâtre français,"Documentary, Short"
+102,1896,The Beach at Villiers in a Gale,Short
+103,1896,Smarter than the Teacher,Short
+104,1896,Pompiers à Lyon,"Documentary, Short"
+105,1896,The Docks at Marseilles,"Documentary, Short"
+106,1896,Retour au cantonnement,Short
+107,1896,Naval Review at Cherburg,"Documentary, Short"
+108,1896,Rip Leaving Sleepy Hollow,"Drama, Short"
+109,1896,Rip Meeting the Dwarf,"Short, Fantasy"
+110,1896,Rip Passing Over the Mountain,"Short, Fantasy"
+111,1896,Rip's Toast,"Drama, Short"
+112,1896,Rip's Toast to Hudson,"Short, Fantasy"
+113,1896,Rip's Twenty Years' Sleep,"Drama, Short"
+114,1896,French Regiment Going to the Parade,"Documentary, Short"
+115,1896,French Officers' Meeting,"Documentary, Short"
+116,1896,Sac au dos,Short
+117,1896,Saída do Pessoal Operário da Fábrica Confiança,"Documentary, Short"
+118,1896,Salut malencontreux d'un déserteur,Short
+119,1896,"Rescue on the River, Pt. 2","Documentary, Short"
+120,1896,"Rescue on the River, Pt. 1","Documentary, Short"
+121,1896,The Soldier's Courtship,"Short, Comedy"
+122,1896,Closing Hours at Vibert's Perfume Factory,"Documentary, Short"
+123,1896,Conjuring,Short
+124,1896,The Pier at Treport During a Storm,"Documentary, Short"
+125,1896,The Terrible Railway Accident,Short
+126,1896,Tom Old Boot,Short
+127,1896,Les tribulations d'un concierge,"Short, Comedy"
+128,1896,Academy for Young Ladies,Short
+129,1896,Un petit diable,Short
+130,1896,Une altercation au café,Short
+131,1896,A Terrible Night,"Short, Comedy, Horror"
+132,1896,Card Party,"Short, Biography"
+133,1896,La voiture du potier,Short
+134,1896,The Wandering Negro Minstrels,"Short, Music"
+135,1896,A Watermelon Feast,"Documentary, Short"
+136,1895,The Waterer Watered,"Short, Comedy"
+137,1897,Au réfectoire,"Short, Comedy"
+138,1897,The Bewitched Inn,"Short, Comedy, Horror"
+139,1897,L'aveugle,"Short, Drama"
+140,1897,Baignade dans le torrent,"Documentary, Short"
+141,1897,Ballet libella,"Documentary, Short"
+142,1897,Buffalo Bill and Escort,"Short, News"
+143,1897,Les cambrioleurs,"Comedy, Short"
+144,1897,Chez le magnétiseur,"Comedy, Short"
+145,1897,En classe,"Short, Comedy"
+146,1897,Le cocher de fiacre endormi,"Short, Comedy"
+147,1897,The Corbett-Fitzsimmons Fight,"Documentary, News, Sport"
+148,1897,Le Coucher d'Yvette,Short
+149,1897,Behind the Scenes,"Short, Comedy"
+150,1897,Danse fleur de lotus,"Documentary, Short"
+151,1897,Faust et Marguerite,Short
+152,1897,The Hallucinated Alchemist,"Short, Fantasy, Horror"
+153,1897,The Haunted Castle,"Short, Horror"
+154,1897,Henley Regatta,"Short, News, Sport"
+155,1897,The Hypnotist at Work,Short
+156,1896,A Badly Managed Hotel,"Short, Comedy"
+157,1897,Idylle,Short
+158,1897,Idylle interrompue,"Short, Comedy"
+159,1897,The Devil's Laboratory,"Short, Horror"
+160,1900,The Last Days of Pompeii,"Short, Drama"
+161,1897,Leçon de danse,"Short, Comedy"
+162,1897,Niagara Falls,"Documentary, Short"
+163,1897,Le planton du colonel,"Short, Comedy"
+164,1897,Le pêcheur dans le torrent,"Short, Comedy"
+165,1897,Riña en un café,Short
+166,1897,Salida de los trabajadores de la fábrica España Industrial,"Documentary, Short"
+167,1897,Salida de misa de doce del Pilar de Zaragoza,"Documentary, Short"
+168,1897,Salida del público de la iglesia parroquial de Santa María de Sans,"Documentary, Short"
+169,1897,Slagsmål i gamla Stockholm,Short
+170,1896,The Twins' Tea Party,"Comedy, Short"
+171,1897,Une nuit agitée,"Short, Comedy"
+172,1897,The X-Ray Fiend,"Short, Comedy, Horror"
+173,1898,Battle of Santiago Bay,"Short, War"
+174,1898,Výstavní párkar a lepic plakátù,"Short, Comedy"
+175,1896,A Sea Cave Near Lisbon,"Documentary, Short"
+176,1898,Brittania,Short
+177,1898,The Burglar on the Roof,"Short, Crime"
+178,1898,The Cavalier's Dream,"Short, Horror"
+179,1898,The Cave of the Demons,"Short, Horror"
+180,1898,Le chemin de croix,Short
+181,1898,Cinderella,"Short, Fantasy"
+182,1898,"Come Along, Do!","Short, Comedy"
+183,1898,The Corsican Brothers,"Short, Drama"
+184,1899,Cripple Creek Bar-Room Scene,"Western, Short"
+185,1898,La crèche à Bethléem,Short
+186,1898,Le cuirassé Maine,"Short, War"
+187,1898,La cène,Short
+188,1898,The Deserter,"Short, Drama"
+189,1898,Dorotea,Short
+190,1898,Dostavenícko ve mlýnici,"Short, Comedy"
+191,1898,Déménagement à la cloche de bois,Short
+192,1898,"Ella Lola, a la Trilby",Short
+193,1898,L'entrée à Jérusalem,Short
+194,1898,Express Train on a Railway Cutting,"Documentary, Short"
+195,1898,Les farces de Jocko,"Short, Comedy"
+196,1898,Faust and Mephistopheles,"Short, Fantasy"
+197,1898,La flagellation,Short
+198,1898,La fuite en Égypte,Short
+199,1898,Glasgow Fire Engine,Short
+200,1898,Gran corrida de toros,"Documentary, Short, Sport"
+201,1894,Indian War Council,"Short, News"
+202,1898,Le jardin des oliviers,Short
+203,1898,Je vous y prrrrends!,Short
+204,1898,Jésus devant Pilate,Short
+205,1898,Leçons de boxe,"Short, Comedy, Sport"
+206,1898,"Llegada de un tren a la estación de ferrocarril del Norte, de Barcelona","Documentary, Short"
+207,1898,London Express,"Documentary, Short"
+208,1897,The Miller and Chimney Sweep,"Comedy, Short"
+209,1898,Photographing a Ghost,"Short, Horror"
+210,1898,A Novice at X-rays,Short
+211,1898,"The Astronomer's Dream; or, The Man in the Moon","Short, Comedy, Fantasy, Horror, Sci-Fi"
+212,1898,Saida do Paquete Duque de Braganca,Short
+213,1898,Scène d'escamotage,Short
+214,1898,Tearing Down the Spanish Flag,"Short, War"
+215,1898,Smích a plác,"Short, Documentary"
+216,1898,Visita de Doña María Cristina y Alfonso XIII a Barcelona,"Short, News"
+217,1898,Waves and Spray,Short
+218,1899,L'affaire Dreyfus,"Short, Biography, Drama"
+219,1899,Aladdin and the Wonderful Lamp,"Short, Fantasy"
+220,1901,The Artist and the Flower Girl,"Short, Romance"
+221,1899,Aspectos da Praia de Cascais,"Documentary, Short"
+222,1899,Au cabaret,"Short, Comedy"
+223,1899,L'aveugle,Short
+224,1899,Battlefield,Short
+225,1899,Beauty and the Beast,"Short, Family, Fantasy, Romance"
+226,1899,Boat Race,Short
+227,1899,Bombardment of Mafeking,"Short, Drama, War"
+228,1899,La bonne absinthe,Short
+229,1899,Casey at the Bat,"Short, Sport"
+230,1899,Cinderella,"Short, Drama, Family, Fantasy, Romance"
+231,1896,Portuguese Railway Train,"Documentary, Short"
+232,1899,Le chiffonnier,"Short, Comedy"
+233,1899,Choque de dos transatlánticos,"Short, Animation"
+234,1899,Cleopatra's Tomb,"Short, Horror"
+235,1899,Haggard's She: The Pillar of Fire,"Short, Adventure, Fantasy, Horror"
+236,1899,Courte échelle,Short
+237,1899,Le crucifiement,Short
+238,1899,Les dangers de l'alcoolisme,"Short, Drama"
+239,1899,Danse serpentine par Mme. Bob Walter,"Short, Music"
+240,1899,Distributing a War Extra,"Short, Documentary"
+241,1899,La descente de croix,Short
+242,1899,The Sign of the Cross,"Short, Fantasy, Horror"
+243,1899,Le déjeuner des enfants,"Short, Comedy"
+244,1899,Erreur judiciaire,Short
+245,1899,The Haunted House,"Short, Comedy, Fantasy, Horror"
+246,1899,A Turn of the Century Illusionist,"Short, Fantasy"
+247,1899,King John,"Short, Drama"
+248,1899,A Kiss in the Tunnel,"Short, Comedy, Romance"
+249,1899,The Legacy,Short
+250,1899,Llegada del vapor Bellver a Mallorca,"Short, Documentary"
+251,1899,Matches: An Appeal,"Animation, Short"
+252,1899,La mauvaise soupe,"Short, Comedy"
+253,1899,The Miser's Doom,"Short, Horror"
+254,1899,Monnaie de lapin,"Short, Comedy"
+255,1899,Mésaventure d'un charbonnier,"Short, Comedy"
+256,1899,Panorama from the Tower of the Brooklyn Bridge,"Documentary, Short"
+257,1899,La résurrection,Short
+258,1899,Le tondeur de chiens,"Short, Comedy"
+259,1899,Le tonnelier,"Short, Comedy"
+260,1899,Transformations,"Short, Comedy"
+261,1899,A Midnight Episode,"Short, Comedy, Horror"
+262,1899,Un lunch,"Short, Comedy"
+263,1899,"Vista de la entrada principal de la plaza de toros de Jerez, el segundo día de feria","Documentary, Short"
+264,1899,Summoning the Spirits,"Short, Fantasy, Horror"
+265,1900,Above the Limit,"Short, Comedy"
+266,1900,Above the Speedway,"Documentary, Short"
+267,1900,L'angélus,Short
+268,1900,L'arléquine,Short
+269,1900,"Army Life; or, How Soldiers Are Made: Mounted Infantry","Short, Documentary"
+270,1900,Arrivée d'Arléquin,Short
+271,1900,Arrivée de Pierette et Pierrot,Short
+272,1900,As Seen Through the Telescope,"Short, Comedy"
+273,1900,Attack on a China Mission,"Short, Action, Crime, Drama, War"
+274,1900,Avenue de l'opéra,"Short, Comedy"
+275,1900,Badinage,Short
+276,1900,Bataille d'oreillers,Short
+277,1900,Bataille de boules de neige,Short
+278,1900,Buffalo Bill's Show Parade,Short
+279,1900,Buffalo Bill's Wild West Parade,"Short, News"
+280,1900,Buffalo Bill's Wild West Parade,"Short, News"
+281,1900,Buffalo Bill's Wild West Show,"Short, News"
+282,1900,Le bébé,Short
+283,1900,Chez le Maréchal-Ferrant,Short
+284,1900,Chez le photographe,Short
+285,1900,Chinese Magic,"Short, Horror"
+286,1900,Chirurgie fin de siècle,"Comedy, Short"
+287,1900,The Clown and the Alchemist,"Comedy, Fantasy, Short"
+288,1900,La concierge,"Short, Comedy"
+289,1900,Coucher d'une Parisienne,Short
+290,1900,Dance de l'ivresse,Short
+291,1900,Dans les coulisses,Short
+292,1900,Danse du papillon,"Documentary, Short"
+293,1900,Danse du pas des foulards par des almées,Short
+294,1900,La danse du ventre,Short
+295,1900,Danse du voile,Short
+296,1900,Danse serpentine,"Documentary, Short"
+297,1900,Danses,Short
+298,1900,Déclaration d'amour,Short
+299,1900,Le départ d'Arlequin et de Pierrette,Short
+300,1900,The Enchanted Drawing,"Animation, Short, Comedy, Fantasy"
+301,1900,Faust and Marguerite,"Short, Fantasy, Horror"
+302,1900,"La fée aux choux, ou la naissance des enfants",Short
+303,1900,Gavotte directoire,Short
+304,1900,Grandma's Reading Glass,"Short, Family"
+305,1900,L'Habanera,Short
+306,1900,Le duel d'Hamlet,"Short, Drama"
+307,1900,Happy Hooligan,"Comedy, Short"
+308,1900,The House That Jack Built,Short
+309,1900,How It Feels to Be Run Over,"Short, Comedy"
+310,1900,Chimmie Hicks and the Rum Omelet,"Comedy, Short"
+311,1900,Above the Limit,"Short, Comedy"
+312,1900,Le lapin,Short
+313,1900,Let Me Dream Again,"Short, Comedy"
+314,1900,Leçon de danse,Short
+315,1900,Le marchand de coco,Short
+316,1900,Marché à la volaille,Short
+317,1900,Le matelot,Short
+318,1900,Eine moderne Jungfrau von Orleans,Short
+319,1899,Maple Leaf Viewing,"Short, Horror"
+320,1900,Mort d'Adonis,Short
+321,1900,The Mystic Swing,"Fantasy, Short"
+322,1900,Panorama de Barcelona: monumentos y fiestas,"Short, Documentary"
+323,1900,Pas Japonais,Short
+324,1900,Pas de grâce,Short
+325,1900,Pas des éventails,Short
+326,1900,Pas du poignard,Short
+327,1900,La paysanne,Short
+328,1900,La petite magicienne,Short
+329,1900,Le Polichinelle,Short
+330,1900,La poupée noire,Short
+331,1900,La reine des jouets,Short
+332,1900,Retour des champs,"Documentary, Short"
+333,1900,Le sang d'Adonis donnant naissance à la rose rouge,Short
+334,1900,Saut humidifié de M. Plick,"Short, Comedy"
+335,1900,Soldiers of the Cross,"Short, Biography, Drama"
+336,1900,La source,Short
+337,1900,Spanish Bullfight,"Short, Sport"
+338,1900,Suite de la danse,Short
+339,1900,La tarentelle,Short
+340,1900,Uncle Josh in a Spooky Hotel,"Comedy, Fantasy, Short"
+341,1900,Uncle Josh's Nightmare,"Comedy, Short, Fantasy"
+342,1900,Une rage de dents,"Short, Comedy"
+343,1900,Valse directoire,Short
+344,1900,Valse lente,Short
+345,1900,L'écossaise,Short
+346,1901,Another Job for the Undertaker,"Short, Comedy"
+347,1901,Buffalo Bill's Wild West Parade,"Documentary, Short, News"
+348,1901,Charmant froufrou,Short
+349,1901,"What Came Out of the Cheese; or, The Lilliputians in a New York Restaurant","Short, Comedy"
+350,1901,The Countryman's First Sight of the Animated Pictures,"Short, Comedy"
+351,1901,Danses basques,Short
+352,1901,Day at the Circus,"Documentary, Short"
+353,1901,Execution of Czolgosz with Panorama of Auburn Prison,"Short, Drama, History"
+354,1901,Exercício de Artilharia no Hipódromo de Belém,"Documentary, Short"
+355,1901,Fire!,"Short, Action, Drama"
+356,1901,Frivolité,Short
+357,1901,The Haunted Curiosity Shop,"Short, Comedy, Fantasy, Horror"
+358,1901,History of a Crime,"Short, Crime, Drama"
+359,1901,The Man with the Rubber Head,"Short, Comedy, Fantasy"
+360,1901,Hussards et grisettes,Short
+361,1901,Lavatory moderne,Short
+362,1901,Lecture quotidienne,Short
+363,1901,Magical Sword,"Short, Fantasy, Romance"
+364,1901,Panorama of Esplanade by Night,"Documentary, Short"
+365,1901,Parada de Bombeiros,"Documentary, Short"
+366,1901,Uma Parada dos Alunos da Casa Pia de Lisboa,"Documentary, Short"
+367,1901,Pas de colombine,Short
+368,1901,Little Red Riding Hood,"Short, Fantasy"
+369,1901,A Road for Children's Bicycles in Barcelona,"Short, Documentary"
+370,1901,Scrooge; or Marley's Ghost,"Short, Drama, Fantasy, Horror"
+371,1901,Scène d'amour,Short
+372,1901,Scène d'ivresse,Short
+373,1902,The Devil's Seven Castles,"Short, Drama, Horror"
+374,1901,Tel est pris qui croyait prendre,Short
+375,1901,Uma Tourada à Antiga Portuguesa,"Documentary, Short"
+376,1901,A táncz,"Documentary, Short"
+377,1901,Undressing Extraordinary,"Short, Comedy, Fantasy"
+378,1901,Les vagues,Short
+379,1901,Visit of the British Navy to Barcelona,"Documentary, Short"
+380,1903,Sleeping Beauty,"Fantasy, Short, Drama"
+381,1902,Buffalo Bill's Wild West Show,"Short, News"
+382,1902,Carnaval en las ramblas,"Short, Documentary"
+383,1902,Carreras de caballos en el hipódromo de Barcelona,"Short, Documentary"
+384,1902,Miss Dundee and Her Performing Dogs,"Documentary, Short"
+385,1902,Les clowns,"Short, Comedy"
+386,1902,La cour des miracles,"Short, Comedy"
+387,1902,The Coronation of King Edward VII,"Short, History"
+388,1902,Danse excentrique,"Short, Music"
+389,1902,Danse fantaisiste,Short
+390,1902,Danse mauresque,Short
+391,1902,La dent récalcitrante,"Short, Comedy"
+392,1903,The Enchanted Cup,"Short, Fantasy"
+393,1902,En faction,"Short, Comedy"
+394,1902,Farces de cuisinière,"Short, Comedy"
+395,1902,La fiole enchantée,Short
+396,1902,Fruits de saison,Short
+397,1902,La gavotte,Short
+398,1902,La gigue,Short
+399,1902,Jack and the Beanstalk,"Short, Fantasy"
+400,1902,Le lion savant,"Short, Comedy"
+401,1902,Le marchand de ballons,"Short, Comedy"
+402,1902,Mother Goose Nursery Rhymes,"Short, Comedy"
+403,1902,Le pommier,Short
+404,1902,Pour secouer la salade,Short
+405,1902,La première gamelle,"Short, Comedy"
+406,1900,The Prince of Darkness,"Short, Horror"
+407,1902,Procession of the Daughters of the Virgin Mary from the Sants Church,"Documentary, Short"
+408,1902,Quadrille réaliste,Short
+409,1902,Midwife to the Upper Classes,"Short, Comedy"
+410,1901,Demolishing and Building Up the Star Theatre,"Documentary, Short"
+411,1902,Trompé mais content,"Short, Comedy"
+412,1900,The Troublesome Fly,"Short, Comedy, Horror"
+413,1902,The Devil's Money Bags,"Short, Comedy, Fantasy, Horror"
+414,1902,Uncle Josh at the Moving Picture Show,"Comedy, Short"
+415,1902,A Peculiar Cabinet,Short
+416,1902,Alcohol and Its Victims,"Short, Drama"
+417,1902,A Trip to the Moon,"Short, Action, Adventure, Comedy, Fantasy, Sci-Fi"
+418,1902,The Wild Man of Borneo,"Short, Drama"
+419,1902,L'équilibriste,Short
+420,1903,Alice in Wonderland,"Short, Family, Fantasy"
+421,1903,Les apaches pas veinards,Short
+422,1903,Les aventures d'un voyageur trop pressé,Short
+423,1903,The Enchanted Box,"Short, Fantasy"
+424,1903,Les braconniers,Short
+425,1903,Buffalo Bill's Parade,"Documentary, Short"
+426,1903,Buffalo Bill's Street Parade,"Documentary, Short"
+427,1903,Cake-walk de la pendule,Short
+428,1903,Carreras de bicicletas en el parque,"Documentary, Short"
+429,1903,La chasse au cambrioleur,Short
+430,1903,A Chess Dispute,"Short, Comedy"
+431,1903,Comme on fait son lit on se couche,Short
+432,1903,How Monsieur Takes His Bath,"Short, Comedy"
+433,1903,Compagnons de voyage encombrants,Short
+434,1903,Dorothy's Dream,"Short, Fantasy"
+435,1903,Enlèvement en automobile et mariage précipité,Short
+436,1903,An Extraordinary Cab Accident,"Short, Comedy"
+437,1903,Faust et Méphistophélès,"Short, Drama, Horror"
+438,1903,Le fiancé ensorcelé,Short
+439,1903,The Great Train Robbery,"Short, Action, Adventure, Crime, Western"
+440,1903,La guirlande merveilleuse,"Short, Fantasy"
+441,1903,Gulliver in the Land of Giants,Short
+442,1903,Capital Execution,"Short, Drama"
+443,1903,Hiawatha,"Short, Adventure, Drama"
+444,1903,Illusionniste renversant,Short
+445,1903,Jocko musicien,Short
+446,1903,Kit Carson,"Short, Western"
+447,1903,Life of an American Fireman,"Short, Action"
+448,1903,Le liqueur du couvent,Short
+449,1903,Lutteurs américains,Short
+450,1903,La main du professeur Hamilton ou le roi des dollars,Short
+451,1903,Mary Jane's Mishap,"Short, Comedy"
+452,1903,The Messenger Boy's Mistake,"Short, Comedy, Romance"
+453,1903,Modelage express,Short
+454,1903,La mouche,Short
+455,1903,The Music Lover,"Short, Comedy, Music"
+456,1903,N.Y. Fire Department Returning,"Documentary, Short"
+457,1903,Ne bougeons plus,Short
+458,1903,Nos bons étudiants,Short
+459,1903,"Panorama of Riker's Island, N.Y.","Short, Documentary"
+460,1903,The Pioneers,"Western, Short"
+461,1903,Potage indigeste,Short
+462,1903,La poule fantaisiste,Short
+463,1903,Barcelona Harbour,"Documentary, Short"
+464,1896,Rip Van Winkle,"Short, Comedy"
+465,1903,The Kingdom of the Fairies,"Short, Adventure, Fantasy"
+466,1903,Répétition dans un cirque,Short
+467,1903,Secours aux naufragés,Short
+468,1903,Service précipité,Short
+469,1903,The Sick Kitten,"Short, Comedy, Family"
+470,1903,Les surprises de l'affichage,Short
+471,1903,Uncle Tom's Cabin,"Short, Drama"
+472,1903,Uncle Tom's Cabin,"Short, Drama"
+473,1905,La valise enchantée,Short
+474,1903,Le voleur sacrilège,Short
+475,1903,Voyage of the 'Arctic',"Short, Drama"
+476,1904,Après la fête,Short
+477,1904,L'assassinat du courrier de Lyon,"Short, Drama"
+478,1904,Behind the Scenes,"Short, Comedy"
+479,1904,Rum vs. Cherries,"Short, Drama"
+480,1904,The Enchanted Trunk,"Short, Fantasy"
+481,1904,A Collier's Life,Short
+482,1904,Comment on disperse les foules,"Short, Comedy"
+483,1904,Les deux rivaux,"Short, Comedy"
+484,1904,Les enfants du miracle,Short
+485,1904,La gavotte de la reine,Short
+486,1905,A Gentleman of France,"Drama, Short"
+487,1904,The Great Train Robbery,"Short, Drama, Western"
+488,1912,The Land Beyond the Sunset,"Short, Drama, Fantasy"
+489,1904,La leçon de pipeau,Short
+490,1904,L'oiseau envolé,Short
+491,1904,Opening the Williamsburg Bridge,"Short, News"
+492,1904,Personal,"Comedy, Short"
+493,1904,"Pierrot, Murderer",Short
+494,1904,Le pompon malencontreux,Short
+495,1907,The Pearl Fisher,"Short, Fantasy"
+496,1904,Railroad Smashup,"Short, Action"
+497,1904,A Railway Tragedy,"Short, Crime"
+498,1905,Rescued by Rover,"Short, Crime, Drama, Family"
+499,1904,An Impossible Voyage,"Short, Action, Adventure, Family, Fantasy, Sci-Fi"
+500,1905,The Abductors,Short
